@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 1.1rem;
+}
+
+#imagen {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
